@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kefale Mulatu Mazengia
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering and working in software company as QA tester.
+- 💞️ I have studied computer engineering.
 - 💞️ I’m looking to collaborate on software development and software QA testing
 - 📫 How to reach me call at  0924510041 or email me at: kefalemulatu98@gmail.com or kefecoder@gmail.com or kefesoft@gmail.com
 
