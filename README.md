@@ -4,9 +4,9 @@
 
 ## Backend Software Engineer | Problem Solver | Coffee Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/johndoe)
-[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.johndoe.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/johndoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kefale-mazengia-512015215)
+[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.logicleap.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/kmazengia)
 
 ---
 
