@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kefale-mazengia-512015215)
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.logicleap.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/kmazengia)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCJ0_mpS6Y3Qsi55FNAam0fQ)
 
 ---
 
