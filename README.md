@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 # Kefale Mulatu Mazengia
 
-## Backend Software Engineer | Problem Solver | Coffee Enthusiast
+## Backend Software Engineer | Node js | Express js |  Django | Spring boot | python | flask | javascript | Java
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kefale-mazengia-512015215)
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.logicleap.com)
