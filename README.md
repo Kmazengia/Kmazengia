@@ -1,24 +1,41 @@
 ![Kefale'S GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-👋 Hello there! As a passionate and results-oriented QA Engineer and Full-Stack Developer, I bring a unique blend of testing and coding skills to deliver high-quality solutions. Let me share with you what I can bring to the table:
+# John Doe
 
-QA Expertise:
-🧪 I specialize in designing and executing a wide range of tests, including exploratory, automated, and performance tests. I make sure to cover all aspects, such as functionality, UI, database, API, and security.
-📝 Writing comprehensive test cases is my forte. I ensure that every possible scenario is considered to guarantee the robustness and reliability of your applications.
-🐞 When it comes to bug tracking and issue management, I am experienced in using tools like Jira. I excel at finding and verifying fixes to ensure a smooth development process.
-🤖 Test automation is one of my strengths. I have hands-on experience with popular automation frameworks like Selenium, Appium, and Postman, enabling me to create efficient and scalable automation suites.
+## Backend Software Engineer | Problem Solver | Coffee Enthusiast
 
-Full-Stack Development:
-💻 I am skilled in building robust frontend applications using React, Angular, and Vue. I focus on creating intuitive user interfaces that provide an exceptional user experience.
-🌩 When it comes to building backends, I have expertise in cloud platforms like AWS, GCP, and Azure. I utilize programming languages like Python and Node.js to develop scalable and reliable backend systems.
-🔧 Crafting databases and designing RESTful APIs are areas where I excel. I ensure efficient data management and seamless communication between different components of your applications.
-🧑‍💻 Implementing CI/CD pipelines and Git workflows is second nature to me. I believe in automating the deployment process to ensure fast and reliable software delivery.
-🔨 Troubleshooting and optimizing is a crucial part of my skill set. I pay close attention to performance, security, and quality, making sure your applications are running at their best.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/johndoe)
+[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.johndoe.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/johndoe)
 
-By leveraging my dual expertise, I ensure that your applications not only meet the highest standards but also exceed expectations. Here's what you can expect from me:
-🚀 Thoroughly tested applications that excel in terms of quality and reliability.
-🤖 Efficiently automated processes that speed up development and deployment.
-🏗 Applications built on scalable infrastructure, ensuring they can handle growing user demands.
-💯 Optimized applications that provide an amazing user experience, focusing on performance, security, and quality.
+---
 
-If you're looking for someone who can deliver impactful solutions through the right processes and tools, my diverse skills are exactly what you need. Let's connect and discuss how we can build software that exceeds expectations!
+Welcome to my GitHub profile! I am a passionate backend software engineer with a knack for problem-solving and a love for building scalable systems. I specialize in designing and developing robust APIs, optimizing database performance, and creating efficient server-side solutions.
+
+## Skills
+
+- Programming Languages: Python, Java, javascript, shell, c, c++
+- Backend Technologies: Django, Flask, Node.js, express js, react js
+- Databases: PostgreSQL, MySQL, MongoDB, MariaDB
+- RESTful APIs, Microservices Architecture
+- Cloud Platforms: AWS, Azure
+- Version Control: Git, GitHub
+
+## Projects
+
+### Project 1: Ecommerce website 
+A RESTful API built with Django and Django REST Framework. It provides seamless integration with various third-party services and offers a rich set of data endpoints. Check it out (https://github.com/Kmazengia/nifasgebeya).
+
+### Project 2: Book store system
+A scalable order management system developed with Node.js and MongoDB. It handles order processing, inventory management, and customer data. Take a look (https://github.com/Kmazengia/Logic-Leap-portfollio-project-collection/tree/main/bookstore).
+
+## Contributions
+
+- [Open Source Project 1](https://github.com/--) - Contributed by implementing new features and optimizing performance.
+- [Open Source Project 2](https://github.com/---) - Collaborated with a team to fix bugs and improve overall code quality.
+
+## Blog
+
+I also write about my experiences and insights in the software engineering industry. Check out my latest blog posts on [].
+
+Feel free to explore my repositories, and don't forget to follow me on GitHub to stay updated with my latest projects. Let's connect on LinkedIn and discuss exciting opportunities!
