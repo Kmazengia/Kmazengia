@@ -4,7 +4,7 @@
 
 ## Backend Software Engineer | Node js | Express js |  Django | Spring boot | python | flask | javascript | Java
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kefale-mazengia-512015215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kefale-mazengia-512015215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9t2GWhq1T%2B6npjbuC8aZIw%3D%3D)
 [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://www.logicleap.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/kmazengia)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCJ0_mpS6Y3Qsi55FNAam0fQ)
